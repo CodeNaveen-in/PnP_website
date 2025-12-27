@@ -325,7 +325,6 @@ nav.scrolled {
 .split-right h2,
 .split-right p,
 .split-right .event-list,
-.split-right .e-info h4,
 .split-right .e-info p {
   color: var(--white);
 }
@@ -431,7 +430,7 @@ nav.scrolled {
 .e-info h4 {
   font-size: 1.5rem;
   margin-bottom: 10px;
-  color: var(--white);
+  color: var(--gold);
 }
 
 .e-info p {
